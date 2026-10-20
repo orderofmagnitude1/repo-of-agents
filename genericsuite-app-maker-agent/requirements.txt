@@ -107,7 +107,7 @@ pydantic-graph==0.0.20
 pydantic_core==2.27.2
 pydeck==0.9.1
 Pygments==2.19.1
-pymongo==4.11
+pymongo==4.18.2
 pypdf==5.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
