@@ -49,7 +49,7 @@ pandas==2.2.3
 pillow==11.0.0
 protobuf==5.29.1
 pyarrow==18.1.0
-pyasn1==0.6.1
+pyasn1==0.6.5
 pyasn1_modules==0.4.1
 pydantic==2.10.3
 pydantic-ai==0.0.10
